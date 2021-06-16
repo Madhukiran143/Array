@@ -1,0 +1,33 @@
+1> Array start from the index value 0 to n-1(it means array-1)
+ class Array{
+    public static void main(string[]args){
+    int[]a= {1,2,3,4,5};
+    System.out.println(a);
+   }
+   }
+2> ASCII is used to translate computer text to the human text,All computers speaks in binary language, it is a code for representing  128 english characters as a numbers   
+
+3> import.java.io.*;
+   import.java.iang.1*;
+   import java.util.Scanner;
+  class Age{
+   public static void main(strings[]args){
+    Scanner Scan =new Scanner(System.in);
+    System.out.println("Enter the age");
+    int age=Scan.nextInt();
+    if age>=18{
+     System.out.println("candidate is eligible");
+    }
+    else{
+     System.out.println("candidate is not eligible");
+    }
+    }
+    }
+4>  Bitwise operators are used to perfrom the operations on the data at the bit level.it consists of two digits either 0 or 1.
+    class Public {
+    public static void main(strings[]args)
+    {
+     int x=8,y=9;
+     System.out.println("x&y="+(x&y));
+    }
+    }
